@@ -1,3 +1,0 @@
-Sitemap: https://qqiumax.github.io/sitemap.xml
-Sitemap: https://qqiumax.github.io/sitemap_bak.xml
-Sitemap: https://qqiumax.github.io/sitemap/sitemap.xml
