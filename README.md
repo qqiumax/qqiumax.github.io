@@ -3,5 +3,6 @@
 ## **If you like it, please share with your friends! Thank you! Every donation or sharing will be very appreciated!**
 
 ## New blog published, See it [Here](https://qqiumax.github.io/blog/)
-####### You may copy the website, but you have to cite the author, me, and give a link to the website.
-####### Copyright 2022 Max Qiu All Rrights Reserved.
+###### You may copy the website, but you have to cite the author, me, and give a link to the website.
+
+###### Copyright 2022 Max Qiu All Rrights Reserved.
