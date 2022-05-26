@@ -33,7 +33,7 @@
     git add *
     git commit -m "a_small_note_you_want_to_leave"
     git push origin main
-## And you are done, you can also use <code>git status</code> to check too.
+## And you are done, you can also use git status to check too.
 ## If you want to remove a file:
     git rm file_you_removed
     git commit -m "a_small_note_you_want_to_leave"
