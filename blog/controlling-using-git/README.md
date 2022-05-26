@@ -29,10 +29,13 @@
 
 ## **Upgrading blogs**
 ## **Wait for a few second, close the bash, and you are done!**
+
 ## If you added or modified, open git bash, type
     git add *
     git commit -m "a_small_note_you_want_to_leave"
     git push origin main
+
+
 ## And you are done, you can also use git status to check too.
 ## If you want to remove a file:
     git rm file_you_removed
