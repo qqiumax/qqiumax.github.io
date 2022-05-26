@@ -38,7 +38,7 @@
 
 ## And you are done, you can also use git status to check too.
 ## If you want to remove a file:
-    git rm file_you_removed
+    git rm "file_path_you_removed"
     git commit -m "a_small_note_you_want_to_leave"
     git push origin main
 
