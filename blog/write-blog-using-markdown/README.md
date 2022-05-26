@@ -27,7 +27,7 @@
 ## Now you have learned the basic of markdown, go and create your own blog with it in your README.md!
 ## After you have created your blog, commit the changes, and wait for a few minutes, now visit your domain and you now have your first published blog!
 
-### Next class we will learn git, so first install git [here](https://git-scm.com/downloads£©and keep clicking next until the finish installing page. It look like this:
+### Next class we will learn git, so first install git [here](https://git-scm.com/downloads)and keep clicking next until the finish installing page. It look like this:
 ![git](https://qqiumax.github.io/blog/write-blog-using-markdown/git.png)
 ## And you are done!
 
