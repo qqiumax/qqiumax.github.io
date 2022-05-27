@@ -6,7 +6,8 @@
 ## A. You can share my site with your friends and social media, like twitter, facebook, reddit, etc. If you already have your own website, copy the html/markdown code below to link to and support my website!!! 
 
 ## HTML
-<code><a href="https://qqiumax.github.io/">Friendly link</a></code>
+    <!-- Friend Link --!>
+    <a href="https://qqiumax.github.io/">Friendly link</a>
 
 ## Markdown
 <code>[Friendly link](https://qqiumax.github.io/)</code>
