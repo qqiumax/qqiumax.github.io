@@ -19,6 +19,9 @@
 ## [links](https://qqiumax.github.io/blog/write-blog-using-markdown/)
 ## For links, <code>[text you want to display](link with https://)</code> syntax to create link
 
+## **Images**
+## Same as link, but add a ! mark before the square bracket
+
 ## Codes
 ## for codes, use HTML 
     <code>asd</code>
