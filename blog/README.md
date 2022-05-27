@@ -4,4 +4,9 @@
 ### [Part 02: Write blogs using markdown](https://qqiumax.github.io/blog/write-blog-using-markdown/)
 ### [Part 03: Controlling your website using Git](https://qqiumax.github.io/blog/controlling-using-git/)
 ### [Part 04: Adding subdirectories](https://qqiumax.github.io/blog/adding-directories/)
+
+
+## Series: Troubleshooting
+### [Troubleshoot1](https://qqiumax.github.io/blog/troubleshoot1/)
+
 [back](https://qqiumax.github.io/home/)
