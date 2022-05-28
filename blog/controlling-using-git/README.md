@@ -45,6 +45,24 @@
 ## **Errors While Pushing**
 ## Use <code>git pull --rebase origin main</code> and then push.
 
+## **(Optional) GPG Signature key**
+## 1. Install the newest gpg signer for your system [here](https://www.gnupg.org/download/)
+## 2.use <code>gpg --full-generate-key</code> in git bash.
+## 3.press enter
+## 4.press 4096
+## 5.follow the directions
+## 6.Make sure to write your sign-up email and username for github.
+## 7.enter a secure password twice, following the directions.
+## 8.enter <code>gpg --list-secret-keys --keyid-format=long</code>
+## 9.copy the code in sec section after the / slash.
+## 10.enter <code>gpg --armor --export "your_copied_code"</code>
+## 11.copy the ----Begin ... part until the ---End.. part, inclusive.
+## 12.Go to github => settings => ssh and gpg keys, add new GPG key, and paste it.
+![image7](https://qqiumax.github.io/blog/controlling-using-git/gpg.png)
+## 13. remember the code we copied before? enter <code>git config --global user.signingkey "your-code-here"</code>
+## Whenever you want to sign a commit do <code>git commit -S -m "your message here"</code>
+## And you are done!
+
 ## **Other Functions**
 ## [go here to see](https://git-scm.com/doc/)
 
