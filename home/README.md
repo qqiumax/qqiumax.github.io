@@ -5,6 +5,7 @@
 ## **[Projects](https://qqiumax.github.io/projects/)**
 ## **[Journal](https://qqiumax.github.io/journal/)**
 ## **[Blog](https://qqiumax.github.io/blog/)**
+## **[Random Works](https://qqiumax.github.io/random/)**
 ## **[Contact](https://qqiumax.github.io/contact/)**
 ## **[Donate](https://qqiumax.github.io/donate/)**
 ## **Hi There! Here is Max's website! Above are a few links to my site!**
