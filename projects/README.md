@@ -1,3 +1,3 @@
 # Projects
-## I don't have any projects yet :( you can [contact me](https://qqiumax.github.io/contact/) to collaborate with me!
+## [py-plotter: A automated python plotter for all](https://qqiumax.github.io/py-plotter/)
 [back](https://qqiumax.github.io/home/)
