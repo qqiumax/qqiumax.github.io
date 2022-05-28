@@ -19,7 +19,7 @@
 ## Q. I found an issue on your site/ I want to add something to your site!
 ## A. Amazing, thanks for spotting the issue/supporting me by adding. Go to the [contacts](https://qqiumax.github.io/contact/) page to send a email to me!
 
-## Q. Your site is amazing, but why is your site not on Google or Bing?
-## A. I am experiencing a problem here, my site is indexed but not appearing in search results, I am consalting with them to make my site appear.
+## Q. Your site is amazing, but why is your site is on Google but not on Bing?
+## A. I am experiencing a problem here, my site isn't indexed thus not appearing in search results, I am consalting with them to make my site appear.
 
 [back](https://qqiumax.github.io/blog/)
