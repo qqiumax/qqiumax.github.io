@@ -1,7 +1,5 @@
 # Home
 ## Hi! Here is Max's Website!
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N2XX7PV"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 ## **[Profile](https://qqiumax.github.io/profile/)**
 ## **[Codes](https://qqiumax.github.io/codes/)**
 ## **[Projects](https://qqiumax.github.io/projects/)**
