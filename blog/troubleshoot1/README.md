@@ -1,6 +1,10 @@
 # Troubleshoot 01
+
 ## Q. I can't access Github! It says connection was reset!
 ## A. Maybe you lives in a censored country like China, Russia, or others. Since a firewall controlls the messages you send and recieve, the connection to github is unstable and appears the message. You can just wait and refresh till the page appears. For more stable connection you could try using a Proxy, VPN, or Tor Network. On the other hand, OpenSSH connection is stable for github, so you can use git clone and git pull for actions to your repository website. You can checkout [this blog](https://qqiumax.github.io/blog/controlling-using-git/) for more information for Git.
+
+## Q. Every time I finished my code, Github flickers off! All my work are gone!
+## A. If you are in an censored country, the connection is unstable. You should try first typing out your blog in sn txt file, then paste it on Github. It can at least save your work.
 
 ## Q. Max, I really want to support you, but I don't have money/don't have money in forms of cryptocurrency to donate. How can I help you?
 ## A. You can share my site with your friends and social media, like twitter, facebook, reddit, etc. If you already have your own website, copy the html/markdown code below to link to and support my website!!! 
