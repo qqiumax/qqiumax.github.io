@@ -40,4 +40,4 @@
 ## **And you are done!**
 ## Next class we are going to learn to publish your site on search engines like google and bing!
 
-[back]((https://qqiumax.github.io/blog/)
+[back](https://qqiumax.github.io/blog/)
