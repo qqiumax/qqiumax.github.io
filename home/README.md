@@ -8,5 +8,6 @@
 ## **[Random Works](https://qqiumax.github.io/random/)**
 ## **[Contact](https://qqiumax.github.io/contact/)**
 ## **[Donate](https://qqiumax.github.io/donate/)**
+## **[Digital Signature](https://qqiumax.github.io/signature/)**
 ## **Hi There! Here is Max's website! Above are a few links to my site!**
 [Return to frontpage](https://qqiumax.github.io/)
