@@ -1,1 +1,2 @@
 Sitemap: https://qqiumax.github.io/sitemap01.xml
+Sitemap: https://qqiumax.github.io/sitemap02.txt
