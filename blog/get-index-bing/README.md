@@ -8,3 +8,7 @@
 ## Be careful, since bing is more strict than google and does NOT process imformation as well. So many of your pages will not be indexed, Like me, I have got my whole site on google, but only the frontpage on bing, bad news!
 ## Next lesson will be the Finale for the series, get prepared!
 [back](https://qqiumax.github.io/blog/)
+
+###### You may copy the website, but you have to cite the author, me, and give a link to the website.
+
+###### Copyright (c) 2022 Max Qiu All Rights Reserved.

@@ -20,3 +20,7 @@
 
 ## Now you have learned the basic concept of GPG, wait for my next blog about how to really use it!
 [back](https://qqiumax.github.io/home/)
+
+###### You may copy the website, but you have to cite the author, me, and give a link to the website.
+
+###### Copyright (c) 2022 Max Qiu All Rights Reserved.

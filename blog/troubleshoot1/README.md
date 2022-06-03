@@ -27,3 +27,8 @@
 ## A. I am experiencing a problem here, my site isn't indexed thus not appearing in search results, I am consalting with them to make my site appear.
 
 [back](https://qqiumax.github.io/blog/)
+
+
+###### You may copy the website, but you have to cite the author, me, and give a link to the website.
+
+###### Copyright (c) 2022 Max Qiu All Rights Reserved.

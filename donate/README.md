@@ -17,3 +17,8 @@
 ##### ------------------------Don't Use Ripple if you have other choices:-------------------------------------
 ##### Ripple: rMj1oE6iAzttXrahgNww5pSFNAiFYtRuFd
 [back](https://qqiumax.github.io/home/)
+
+
+###### You may copy the website, but you have to cite the author, me, and give a link to the website.
+
+###### Copyright (c) 2022 Max Qiu All Rights Reserved.
