@@ -17,3 +17,4 @@ https://qqiumax.github.io/blog/troubleshoot1/
 https://qqiumax.github.io/blog/improving-your-site/
 https://qqiumax.github.io/blog/making-your-site-on-engines/
 https://qqiumax.github.io/blog/what-is-gpg/
+https://qqiumax.github.io/blog/get-index-bing/
