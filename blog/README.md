@@ -7,6 +7,9 @@
 ### [Part 05: Improving your site and do SEO](https://qqiumax.github.io/blog/improving-your-site/)
 ### [Part 06: Making your site published on google](https://qqiumax.github.io/blog/making-your-site-on-engines/)
 
+## Series: GPG basics
+### [Part 01: What is GPG?](https://qqiumax.github.io/blog/what-is-gpg)
+
 ## Series: Troubleshooting
 ### [Troubleshoot1](https://qqiumax.github.io/blog/troubleshoot1/)
 
