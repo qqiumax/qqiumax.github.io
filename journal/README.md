@@ -68,3 +68,7 @@
 ### I did have many choices, like putting my journal up here and not putting any ads here... I have been curious these days. What have I done so wrong that it means skinning my whole body and almost failing a math test and dissapointing my parents? I am curious to finnd out what I have done wrong. Well, also [contact me](https://qqiumax.github.io/contact/) if you have any ideas.
 
 [back](https://qqiumax.github.io/home/)
+
+###### You may copy the website, but you have to cite the author, me, and give a link to the website.
+
+###### Copyright (c) 2022 Max Qiu All Rights Reserved.

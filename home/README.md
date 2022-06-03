@@ -11,3 +11,7 @@
 ## **[Digital Signature](https://qqiumax.github.io/signature/)**
 ## **Hi There! Here is Max's website! Above are a few links to my site!**
 [Return to frontpage](https://qqiumax.github.io/)
+
+###### You may copy the website, but you have to cite the author, me, and give a link to the website.
+
+###### Copyright (c) 2022 Max Qiu All Rights Reserved.
