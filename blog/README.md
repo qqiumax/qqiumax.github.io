@@ -5,7 +5,8 @@
 ### [Part 03: Controlling your website using Git](https://qqiumax.github.io/blog/controlling-using-git/)
 ### [Part 04: Adding subdirectories](https://qqiumax.github.io/blog/adding-directories/)
 ### [Part 05: Improving your site and do SEO](https://qqiumax.github.io/blog/improving-your-site/)
-### [Part 06: Making your site published on google](https://qqiumax.github.io/blog/making-your-site-on-engines/)
+### [Part 06: Making your site published on Google](https://qqiumax.github.io/blog/making-your-site-on-engines/)
+### [Part 07: Making your site published on Bing](https://qqiumax.github.io/blog/get-index-bing/)
 
 ## Series: GPG basics
 ### [Part 01: What is GPG?](https://qqiumax.github.io/blog/what-is-gpg)
