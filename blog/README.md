@@ -10,7 +10,7 @@
 
 ## Series: GPG basics
 ### [Part 01: What is GPG?](https://qqiumax.github.io/blog/what-is-gpg)
-### [Part 02: installing and generatin key for gpg](https://qqiumax.github.io/blog/installing-and-generate-key-for-gpg)
+### [Part 02: installing and generating key for gpg](https://qqiumax.github.io/blog/installing-and-generate-key-for-gpg)
 ## Series: Troubleshooting
 ### [Troubleshoot1](https://qqiumax.github.io/blog/troubleshoot1/)
 
