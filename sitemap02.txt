@@ -18,3 +18,4 @@ https://qqiumax.github.io/blog/improving-your-site/
 https://qqiumax.github.io/blog/making-your-site-on-engines/
 https://qqiumax.github.io/blog/what-is-gpg/
 https://qqiumax.github.io/blog/get-index-bing/
+https://qqiumax.github.io/blog/installing-and-generate-key-for-gpg/
