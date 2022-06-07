@@ -12,6 +12,7 @@
 ### [Part 01: What is GPG?](https://qqiumax.github.io/blog/what-is-gpg/)
 ### [Part 02: installing and generating key for gpg](https://qqiumax.github.io/blog/installing-and-generate-key-for-gpg/)
 ### [Part 03: using gpg to sign git tags and commits](https://qqiumax.github.io/blog/signing-commits-and-tags/)
+### [Part 04: signing and verifying files](https://qqiumax.github.io/blog/signing-files-and-verify/)
 ## Series: Troubleshooting
 ### [Troubleshoot1](https://qqiumax.github.io/blog/troubleshoot1/)
 
