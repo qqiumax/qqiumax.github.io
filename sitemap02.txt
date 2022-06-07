@@ -9,6 +9,8 @@ https://qqiumax.github.io/profile/
 https://qqiumax.github.io/projects/
 https://qqiumax.github.io/signature/
 https://qqiumax.github.io/random/
+https://qqiumax.github.io/py-plotter/
+https://qqiumax.github.io/Code-Storespace/
 https://qqiumax.github.io/blog/get-your-github-domain/
 https://qqiumax.github.io/blog/write-blog-using-markdown/
 https://qqiumax.github.io/blog/controlling-using-git/
@@ -19,3 +21,4 @@ https://qqiumax.github.io/blog/making-your-site-on-engines/
 https://qqiumax.github.io/blog/what-is-gpg/
 https://qqiumax.github.io/blog/get-index-bing/
 https://qqiumax.github.io/blog/installing-and-generate-key-for-gpg/
+https://qqiumax.github.io/blog/signing-commits-and-tags/
