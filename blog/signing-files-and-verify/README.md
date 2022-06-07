@@ -17,10 +17,12 @@
 ## **Signing files -entached signature**
 ## Use <code>gpg --sign FILE_HERE</code> the .gpg file contains the message AND the signature.
 ## **Verifying a detached signature**
+## Use <code>gpg --import File_Name_Contains_Public-Key</code> to import public key
 ## Use <code>gpg --verify "signature-file-here" "original-file-here"</code>
 ## If produces "Good signature from xxxxx, then message is not corrupted"
 ## Or else "bad signature from xxxx", then the message is CORRUPTED!
 ## **Verifying an entached signature**
+## Use <code>gpg --import File_Name_Contains_Public-Key</code> to import public key
 ## For example, I recieved a code.txt.gpg, first create a file without the .gpg, in this example, code.txt.
 ## Use <code>gpg --output "without-gpg-filename" ".gpg-signed-file"</code>
 ## If it is a "good signature from xxx" the message is not corrupted
