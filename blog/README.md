@@ -8,7 +8,10 @@
 ### [Part 06: Making your site published on Google](https://qqiumax.github.io/blog/making-your-site-on-engines/)
 ### [Part 07: Making your site published on Bing](https://qqiumax.github.io/blog/get-index-bing/)
 
-## Series: GPG basics
+## Series: Git detailed
+## [Part01: Git concepts, install, and configuration](https://qqiumax.github.io/blog/what-is-git/)
+
+## Series: GPG basics(ended)
 ### [Part 01: What is GPG?](https://qqiumax.github.io/blog/what-is-gpg/)
 ### [Part 02: installing and generating key for gpg](https://qqiumax.github.io/blog/installing-and-generate-key-for-gpg/)
 ### [Part 03: using gpg to sign git tags and commits](https://qqiumax.github.io/blog/signing-commits-and-tags/)
