@@ -43,7 +43,7 @@
 ## **What are you grateful for?**
 ### I am grateful for many things, for my mom, I have the poem in the previous journal entries and I do love every single person in my family, although I do not like a few people in my class and school ,I social with almost everybody. Teachers, classmates, coworkers, and more. I am grateful for the supreme being too! For he gave me the personality not to be afraid in the unknown.
 ## 5/16
-## **Reflection: What have you learned about yourself in MBTI?**
+## **Reflection: What have you learned about yourself**
 ### In this amazing lockdown, I have learned many about myself. For example, I had learned that I am not so smart and special, I tried not to review anything but do a few questions before the big math practice (which we don't say the T word you might think that has a similar meaning as an final exam. According to law, there should be no tests, so we don’t have tests, we have only "practice") And I come out to have a grade worse than a stupid stubborn donkey would have. I got really mad and started to pay more attention in class than ever and done homework using my best attitude. I got better at my homework grades and I learned one of my most important lesson of life: don't overlook studying.
 ## 5/17
 ## **Random thoughts**
@@ -66,6 +66,7 @@
 ## 2022/5/31
 ## **Reflection: Your choice**
 ### I did have many choices, like putting my journal up here and not putting any ads here... I have been curious these days. What have I done so wrong that it means skinning my whole body and almost failing a math test and dissapointing my parents? I am curious to finnd out what I have done wrong. Well, also [contact me](https://qqiumax.github.io/contact/) if you have any ideas.
+
 
 [back](https://qqiumax.github.io/home/)
 
