@@ -9,7 +9,8 @@
 ### [Part 07: Making your site published on Bing](https://qqiumax.github.io/blog/get-index-bing/)
 
 ## Series: Git detailed
-## [Part01: Git concepts, install, and configuration](https://qqiumax.github.io/blog/what-is-git/)
+### [Part01: Git concepts, install, and configuration](https://qqiumax.github.io/blog/what-is-git/)
+### [Part02: Connect git and github](https://qqiumax.github.io/blog/git-connect-github/)
 
 ## Series: GPG basics(ended)
 ### [Part 01: What is GPG?](https://qqiumax.github.io/blog/what-is-gpg/)
