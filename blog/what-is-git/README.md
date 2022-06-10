@@ -13,11 +13,12 @@
 ## The repository is a database of your history and now commits.
 ## The remote repository is a published version of the local repository.
 ![image01](https://qqiumax.github.io/blog/what-is-git/git01.jpg)
+![image02](https://qqiumax.github.io/blog/what-is-git/git02.jpg)
 ## **Explore: The local repository**
 ## There could many branches of a local repository, but how just changing the branch changes the whole working directory?
 ## The answer is: HEAD. An repository stores snapshots of your codes, and name each branch with a HEAD.
 ## When you are changing the branch, the HEAD changes, displaying a different snapshot, which changes the repository!
-![image02](https://qqiumax.github.io/blog/what-is-git/git02.png)
+![image03](https://qqiumax.github.io/blog/what-is-git/git03.png)
 ## **Installing Git** 
 ## Now you have learnt the basics of git! Now lets install the program!
 ## 1. Go to <https://git-scm.com/> and download the package for your operating system.
