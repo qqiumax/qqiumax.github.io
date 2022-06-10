@@ -7,6 +7,7 @@
 ## **[Blog](https://qqiumax.github.io/blog/)**
 ## **[Random Works](https://qqiumax.github.io/random/)**
 ## **[Contact](https://qqiumax.github.io/contact/)**
+## **[Paid Plans](https://qqiumax.github.io/paid-plans/)**
 ## **[Donate](https://qqiumax.github.io/donate/)**
 ## **[Digital Signature](https://qqiumax.github.io/signature/)**
 ## **Hi There! Here is Max's website! Above are a few links to my site!**
