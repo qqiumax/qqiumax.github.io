@@ -10,7 +10,8 @@
 ## **[Paid Plans](https://qqiumax.github.io/paid-plans/)**
 ## **[Donate](https://qqiumax.github.io/donate/)**
 ## **[Digital Signature](https://qqiumax.github.io/signature/)**
-## **[Subscribe For Important updates!](https://qqiumax.github.io)**
+## **[Subscribe For Important updates!](https://qqiumax.github.io/subscribe/)**
+## **[Support ticket](https://qqiumax.github.io/support/)**
 [Return to frontpage](https://qqiumax.github.io/)
 
 ###### You may copy the website, but you have to cite the author, me, and give a link to the website.
