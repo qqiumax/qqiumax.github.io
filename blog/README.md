@@ -7,6 +7,7 @@
 ### [Part 05: Improving your site and do SEO](https://qqiumax.github.io/blog/improving-your-site/)
 ### [Part 06: Making your site published on Google](https://qqiumax.github.io/blog/making-your-site-on-engines/)
 ### [Part 07: Making your site published on Bing](https://qqiumax.github.io/blog/get-index-bing/)
+### [Finale: Monetizing your site!](https://qqiumax.github.io/blog/monetize-your-site)
 
 ## Series: Git detailed
 ### [Part01: Git concepts, install, and configuration](https://qqiumax.github.io/blog/what-is-git/)

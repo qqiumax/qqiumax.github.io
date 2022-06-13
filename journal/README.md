@@ -66,7 +66,9 @@
 ## 2022/5/31
 ## **Reflection: Your choice**
 ### I did have many choices, like putting my journal up here and not putting any ads here... I have been curious these days. What have I done so wrong that it means skinning my whole body and almost failing a math test and dissapointing my parents? I am curious to finnd out what I have done wrong. Well, also [contact me](https://qqiumax.github.io/contact/) if you have any ideas.
-
+## **6/13**
+## **How will you properly prepare for the final practices**
+## Hmmm, I do have to try really hard to impress my teachers in order to get a better grade. I have been almost failing everything, but it seemed that this practice have a heavy weight, and maybe I *am* going to get an A or A-, but I have to work hard. I'd better work harder on maths, since I haven't been getting a good grade. I should also stop working on my site for a few weeks, but I will pick it up later. Al and all, all is well.
 
 [back](https://qqiumax.github.io/home/)
 
