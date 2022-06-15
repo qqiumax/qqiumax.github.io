@@ -1,4 +1,4 @@
-# Part01: Get your free github domain
+# Part01: Get your free domain for site
 ## 1.Go to [Github](https://github.com), Sign up for Github, enter your email, and follow the site's directions:
 ## ![Image Instruction 01 Here](https://qqiumax.github.io/blog/get-your-github-domain/signup01.png)
 ## ![Image Instruction 02 Here](https://qqiumax.github.io/blog/get-your-github-domain/signup02.png)
@@ -21,6 +21,6 @@
 ## Next blog I will talk about how to make a website with headers, titles, etc. with markdown
 [back](https://qqiumax.github.io/blog/)
 
-###### You may copy the website, but you have to cite the author, me, and give a link to the website.
+###### You may copy anything on the website, but you have to cite the author and give a link to this website. See [LICENSE](https://qqiumax.github.io/LICENSE) for more information. You HAVE to keep this message when copying or duplicating.
 
-###### Copyright (c) 2022 Max Qiu All Rights Reserved.
+###### Copyright 2022 Max Qiu All Rights Reserved.

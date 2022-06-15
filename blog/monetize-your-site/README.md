@@ -14,6 +14,6 @@
 ## **That is all for this series! Find out other series at the blue link below!!**
 [back](https://qqiumax.github.io/blog/)
 
-###### You may copy the website, but you have to cite the author, me, and give a link to the website.
+###### You may copy anything on the website, but you have to cite the author and give a link to this website. See [LICENSE](https://qqiumax.github.io/LICENSE) for more information. You HAVE to keep this message when copying or duplicating.
 
-###### Copyright (c) 2022 Max Qiu All Rights Reserved.
+###### Copyright 2022 Max Qiu All Rights Reserved.
