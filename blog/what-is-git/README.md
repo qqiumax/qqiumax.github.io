@@ -37,6 +37,7 @@
 ## Next class we are going to learn connecting git(local repository) with github (remote repository)!
 [back](https://qqiumax.github.io/blog/)
 
-###### You may copy the website, but you have to cite the author, me, and give a link to the website.
 
-###### Copyright (c) 2022 Max Qiu All Rights Reserved.
+###### You may copy anything on the website, but you have to cite the author and give a link to this website. See [LICENSE](https://qqiumax.github.io/LICENSE) for more information. You HAVE to keep this message when copying or duplicating.
+
+###### Copyright 2022 Max Qiu All Rights Reserved.

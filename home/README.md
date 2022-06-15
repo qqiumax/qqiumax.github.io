@@ -14,6 +14,7 @@
 ## **[Support ticket](https://qqiumax.github.io/support/)**
 [Return to frontpage](https://qqiumax.github.io/)
 
-###### You may copy the website, but you have to cite the author, me, and give a link to the website.
 
-###### Copyright (c) 2022 Max Qiu All Rights Reserved.
+###### You may copy anything on the website, but you have to cite the author and give a link to this website. See [LICENSE](https://qqiumax.github.io/LICENSE) for more information. You HAVE to keep this message when copying or duplicating.
+
+###### Copyright 2022 Max Qiu All Rights Reserved.
