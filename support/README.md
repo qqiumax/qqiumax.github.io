@@ -1,5 +1,5 @@
 # Support ticket here
-## Form
+## Here is the suppot ticket for everething you need help. If you reports a bug or submits a blog, no fee is charges. But if you want a technical support or help, etc. Only $1 is charged ONLY IF YOUR PROBLEM IS SOLVED , but that is not even the amout for a single cup of coke! You can say anything in the forms below.
 ## Google form
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdT9RG7vhMA1tB6hkCta8Mx-eRzQ0BUMoqVY8Zwa0x9S55tUw/viewform?embedded=true" width="640" height="1039" frameborder="0" marginheight="0" marginwidth="0">Loading</iframe>
 [back](https://qqiumax.github.io/home/)
