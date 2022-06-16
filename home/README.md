@@ -12,6 +12,7 @@
 ## **[Digital Signature](https://qqiumax.github.io/signature/)**
 ## **[Subscribe For Important updates!](https://qqiumax.github.io/subscribe/)**
 ## **[Support ticket](https://qqiumax.github.io/support/)**
+## **[Comment](https://qqiumax.github.io/comment/)**
 [Return to frontpage](https://qqiumax.github.io/)
 
 
