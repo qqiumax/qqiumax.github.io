@@ -14,6 +14,7 @@
 ## **Connecting with https(not reccommanded)**
 ## 1. Go to github => account settings => developer tools => personal access token => and generate new token, copy the code and store it in a SECURE place. When you connect later as we learn, you have to use this code EVERY TIME. Which, is not reccommanded over SSH as you just need a passphrase.
 ## And you are done! Get ready to put your hands on git next class!
+### **[Comment here](https://qqiumax.github.io/comment/)**
 [back](https://qqiumax.github.io/blog/)
 
 ###### You may copy anything on the website, but you have to cite the author and give a link to this website. See [LICENSE](https://qqiumax.github.io/LICENSE) for more information. You HAVE to keep this message when copying or duplicating.

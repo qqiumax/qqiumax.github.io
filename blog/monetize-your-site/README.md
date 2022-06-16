@@ -12,6 +12,7 @@
 ## **5. Selling your site**
 ## Flip your site to exchange all your works for money, not recommanded, but should earn you a lot.
 ## **That is all for this series! Find out other series at the blue link below!!**
+### **[Comment here](https://qqiumax.github.io/comment/)**
 [back](https://qqiumax.github.io/blog/)
 
 ###### You may copy anything on the website, but you have to cite the author and give a link to this website. See [LICENSE](https://qqiumax.github.io/LICENSE) for more information. You HAVE to keep this message when copying or duplicating.

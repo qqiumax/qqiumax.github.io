@@ -19,7 +19,7 @@
 
 ## And check your webpage a few moments later, and you are done!
 ## **DO NOT FORGET TO PUT A LINK TO YOUR NEW DIRECTORY!**
-
+### **[Comment here](https://qqiumax.github.io/comment/)**
 [back](https://qqiumax.github.io/blog/)
 
 

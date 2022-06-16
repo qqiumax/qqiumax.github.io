@@ -10,6 +10,8 @@
 ## 3. Use <code>gpg "file_name_with_.gpg"</code>
 ## 4. Open the newly created file, and read the secret message!
 ## This is the finale of the series, so this series will be ended. Next series we are going to learn Git throughtly!
+
+### **[Comment here](https://qqiumax.github.io/comment/)**
 [back](https://qqiumax.github.io/blog/)
 
 

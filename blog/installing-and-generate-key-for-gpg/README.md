@@ -33,6 +33,7 @@
 ## Safely store the revoke.asc in a safe place.
 ## You are done!
 ## Next class we are going to learn sending your keys to a keyserver! Get ready!
+### **[Comment here](https://qqiumax.github.io/comment/)**
 [back](https://qqiumax.github.io/blog/)
 
 

@@ -24,6 +24,7 @@
 ## 3. In a folder you like you keep your git repositories, left click and open git bash,and type <code>git clone thing_you_just_copied_here</code>
 ## You will see a .git file and everything you have created in the github step!
 ## And you are all done! Get ready for the next class to work with git!
+### **[Comment here](https://qqiumax.github.io/comment/)**
 [back](https://qqiumax.github.io/home/)
 
 

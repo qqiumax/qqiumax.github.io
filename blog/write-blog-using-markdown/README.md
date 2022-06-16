@@ -40,6 +40,7 @@
     ## OK
 
 ## Wait for the next class!
+### **[Comment here](https://qqiumax.github.io/comment/)**
 
 [back](https://qqiumax.github.io/blog/)
 

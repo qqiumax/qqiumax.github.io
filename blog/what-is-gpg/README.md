@@ -19,6 +19,9 @@
 ## When you import a key from even me, you should name the key as never trust since we shouldn't be familiar, so build your ring of trust on the keys and manage it well! I will moreover elaborate on it more in the latter of the series!
 
 ## Now you have learned the basic concept of GPG, wait for my next blog about how to really use it!
+
+### **[Comment here](https://qqiumax.github.io/comment/)**
+
 [back](https://qqiumax.github.io/blog/)
 
 

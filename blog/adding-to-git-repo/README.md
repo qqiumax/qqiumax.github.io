@@ -35,7 +35,7 @@
 ## You have successfully added a file to your repositroy, horray!
 
 ## Next lesson we are going to be talking about .gitignore files, which can help git to "ignore" some files you don't want to add.
-
+### **[Comment here](https://qqiumax.github.io/comment/)**
 
 [back](https://qqiumax.github.io/home/)
 
