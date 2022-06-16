@@ -25,6 +25,8 @@
 ## And you are done
 ## Next class we are going to learn how to sign and verify files.
 ## Get ready!
+
+### **[Comment here](https://qqiumax.github.io/comment/)**
 [back](https://qqiumax.github.io/blog/)
 
 

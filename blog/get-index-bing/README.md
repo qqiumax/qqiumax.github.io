@@ -7,6 +7,7 @@
 ## 5. Wait for it to get indexed!
 ## Be careful, since bing is more strict than google and does NOT process imformation as well. So many of your pages will not be indexed, Like me, I have got my whole site on google, but only the frontpage on bing, bad news!
 ## Next lesson will be the Finale for the series, get prepared!
+### **[Comment here](https://qqiumax.github.io/comment/)**
 [back](https://qqiumax.github.io/blog/)
 
 ###### You may copy anything on the website, but you have to cite the author and give a link to this website. See [LICENSE](https://qqiumax.github.io/LICENSE) for more information. You HAVE to keep this message when copying or duplicating.

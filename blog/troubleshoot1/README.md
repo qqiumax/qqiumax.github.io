@@ -25,7 +25,7 @@
 
 ## Q. Your site is amazing, but why is your site is on Google but not on Bing?
 ## A. I am experiencing a problem here, my site isn't indexed thus not appearing in search results, I am consalting with them to make my site appear.
-
+### **[Comment here](https://qqiumax.github.io/comment/)**
 [back](https://qqiumax.github.io/blog/)
 
 ###### You may copy anything on the website, but you have to cite the author and give a link to this website. See [LICENSE](https://qqiumax.github.io/LICENSE) for more information. You HAVE to keep this message when copying or duplicating.

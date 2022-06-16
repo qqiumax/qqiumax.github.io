@@ -68,7 +68,7 @@
 
 ## Use Git to controll your blog freely!
 ## Next class we are going to learn creating sub-directories!
-
+### **[Comment here](https://qqiumax.github.io/comment/)**
 [back](https://qqiumax.github.io/blog/)
 
 

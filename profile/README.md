@@ -18,7 +18,7 @@ twitter: @maxqiu15
 ## 😄 Pronouns: Max, He
 ## ⚡ Fun fact: I am able to learn git in 3 hours.
 
-
+### **[Comment here](https://qqiumax.github.io/comment/)**
 [back](https://qqiumax.github.io/home/)
 
 

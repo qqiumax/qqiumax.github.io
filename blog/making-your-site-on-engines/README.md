@@ -23,7 +23,7 @@
 ## 7. Do more SEO
 
 ## You are probably almost finished with your site building, but we will continue 1 or 2 blogs in this series, good luck!
-
+### **[Comment here](https://qqiumax.github.io/comment/)**
 [back](https://qqiumax.github.io/blog/)
 
 

@@ -7,7 +7,7 @@
 
 ## PDFs
 ### [Delirium by Lauren Oliver](https://qqiumax.github.io/random/delirium.pdf)
-
+### **[Comment here](https://qqiumax.github.io/comment/)**
 [back](https://qqiumax.github.io/home/)
 
 ###### You may copy anything on the website, but you have to cite the author and give a link to this website. See [LICENSE](https://qqiumax.github.io/LICENSE) for more information. You HAVE to keep this message when copying or duplicating.

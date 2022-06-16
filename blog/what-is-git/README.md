@@ -35,6 +35,9 @@
 ## 4.(optional) use <code>git config --user.signingkey "key-id-here"</code> to set gpg key.
 ## And you are done
 ## Next class we are going to learn connecting git(local repository) with github (remote repository)!
+
+
+### **[Comment here](https://qqiumax.github.io/comment/)**
 [back](https://qqiumax.github.io/blog/)
 
 

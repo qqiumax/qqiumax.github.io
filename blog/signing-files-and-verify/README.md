@@ -30,6 +30,7 @@
 ## If it is a good signature, open the file with name without .gpg, in this case, code.txt, then you can see the original message!
 ## You are done!
 ## *Next class we are going to learn encrypting and decrypting files! Get ready!*
+### **[Comment here](https://qqiumax.github.io/comment/)**
 [back](https://qqiumax.github.io/blog/) 
 
 
