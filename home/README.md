@@ -11,7 +11,7 @@
 ## **[Donate](https://qqiumax.github.io/donate/)**
 ## **[Digital Signature](https://qqiumax.github.io/signature/)**
 ## **[Subscribe For Important updates!](https://qqiumax.github.io/subscribe/)**
-## **[Support ticket](https://qqiumax.github.io/support/)**
+## **[Support ticket](https://qqiumax.github.io/help/)**
 ## **[Comment](https://qqiumax.github.io/comment/)**
 ## **[Submit a coupon](https://qqiumax.github.io/coupon/)**
 [Return to frontpage](https://qqiumax.github.io/)
