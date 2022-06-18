@@ -13,6 +13,7 @@
 ## **[Subscribe For Important updates!](https://qqiumax.github.io/subscribe/)**
 ## **[Support ticket](https://qqiumax.github.io/support/)**
 ## **[Comment](https://qqiumax.github.io/comment/)**
+## **[Submit a coupon](https://qqiumax.github.io/coupon/)**
 [Return to frontpage](https://qqiumax.github.io/)
 
 
