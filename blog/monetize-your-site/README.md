@@ -8,7 +8,7 @@
 ## **3. Selling adspace on you site**
 ## This is hard, but should earn you a lot.
 ## **4. Getting money from consults**
-## Just like my [support](https://qqiumax.github.io/support/) page, you could earn money from paid consults! It wouldn't be a lot, but definately an easy one.
+## Just like my [support](https://qqiumax.github.io/help/) page, you could earn money from paid consults! It wouldn't be a lot, but definately an easy one.
 ## **5. Selling your site**
 ## Flip your site to exchange all your works for money, not recommanded, but should earn you a lot.
 ## **That is all for this series! Find out other series at the blue link below!!**
