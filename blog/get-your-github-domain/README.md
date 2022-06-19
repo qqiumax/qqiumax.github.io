@@ -21,8 +21,9 @@
 ## Next blog I will talk about how to make a website with headers, titles, etc. with markdown
 ### **[Comment here](https://qqiumax.github.io/comment/)**
 ## Comments
-### Henry title:Good!
-### This is really good! I almost learned it! Still working on!
+### From: Henry 
+### Title: 5-Star rating!
+### Details: This is really good! I almost learned it! Still working on! 5 star!
 [back](https://qqiumax.github.io/blog/)
 
 
