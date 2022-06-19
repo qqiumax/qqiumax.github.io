@@ -2,13 +2,13 @@
 ## At the end of [last class](https://qqiumax.github.io/blog/write-blog-using-markdown/) you should have installed git, let us learn about git to controll your website locally!
 
 ## **Downloading git**
-## First install git [here](https://git-scm.com/downloads)and keep clicking next, but remember to change the default branch to "main" not master, read the directions on each page carefully until the finish installing page. Left click anywhere and it look like this:
+## First install git [here](https://git-scm.com/downloads)and keep clicking next, but remember to change the default branch to "main" not master, read the directions on each page carefully until the finish installing page. Right click anywhere and it look like this:
 ![git](https://qqiumax.github.io/blog/write-blog-using-markdown/git.png)
 ## And you are done!
 
 ## **Initializing Git Config**
 ## 1. Open a folder, and left click, choose *Git Bash Here* until it opens a command bash.
-## 2. tyoe or paste <code>git config --global user.name "your_github_username_here"</code> to set up your name
+## 2. type or paste <code>git config --global user.name "your_github_username_here"</code> to set up your name
 ## 3. type or paste <code>git config --global user.email "your_github_email_here"</code> to set up your email for Git
 
 ## **Open SSH keygen**
