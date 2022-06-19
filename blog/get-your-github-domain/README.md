@@ -21,7 +21,7 @@
 ## Next blog I will talk about how to make a website with headers, titles, etc. with markdown
 ### **[Comment here](https://qqiumax.github.io/comment/)**
 ## Comments
-### Henry title：好评
+### Henry title:好评
 ### 这真的很有用, 我都要学会了!5分好评!
 [back](https://qqiumax.github.io/blog/)
 
