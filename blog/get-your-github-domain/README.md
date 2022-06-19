@@ -22,7 +22,7 @@
 ### **[Comment here](https://qqiumax.github.io/comment/)**
 ## Comments
 ### Henry title：好评
-### 这真的很有用， 我都要学会了!5分好评 :)!
+### 这真的很有用, 我都要学会了!5分好评!
 [back](https://qqiumax.github.io/blog/)
 
 
