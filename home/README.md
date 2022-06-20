@@ -16,6 +16,7 @@
 ## **[Submit a coupon](https://qqiumax.github.io/coupon/)**
 [Return to frontpage](https://qqiumax.github.io/)
 
+###### By continuing to use this site, you agree to our [Terms and Conditions](https://qqiumax.github.io/terms/)
 
 ###### You may copy anything on the website, but you have to cite the author and give a link to this website. See [LICENSE](https://qqiumax.github.io/LICENSE) for more information. You HAVE to keep this message when copying or duplicating.
 
