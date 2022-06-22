@@ -9,10 +9,15 @@
 
 ## List of nessecary analytics:
 ## Yandex Metrica
-## Google Analytics Universal and GA4
+## Google Analytics Universal Analytics and Google Analytics 4
 ## Microsoft clarity
 ## Google adsense. 
-
+## List of necessary indexing tags
+## Google
+## Yandex
+## Baidu
+## Bing
 
 ## Copyright Max Qiu 2022 All Rights Reserved
+
 [back to homepage](https://qqiumax.github.io/home)
