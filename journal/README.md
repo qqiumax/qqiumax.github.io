@@ -71,4 +71,7 @@
 ## Hmmm, I do have to try really hard to impress my teachers in order to get a better grade. I have been almost failing everything, but it seemed that this practice have a heavy weight, and maybe I *am* going to get an A or A-, but I have to work hard. I'd better work harder on maths, since I haven't been getting a good grade. I should also stop working on my site for a few weeks, but I will pick it up later. Al and all, all is well.
 ### **[Comment here](https://qqiumax.github.io/comment/)**
 [back](https://qqiumax.github.io/home/)
-
+## **Comments:**
+### Andy
+### Cool!
+###"Nice! Bro! This is so cool!"
