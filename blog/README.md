@@ -14,7 +14,7 @@
 ### [Part02: Connect git and github](https://qqiumax.github.io/blog/git-connect-github/)
 ### [Part03: Start your first git repository](https://qqiumax.github.io/blog/initializing-a-repo/)
 ### [Part04: Adding files to your repository](https://qqiumax.github.io/blog/adding-to-git-repo/)
-## [Part06: Updating remote repository](https://qqiumax.github.io/blog/up-to-date-remote-repostitory)
+## [Part07: Updating remote repository](https://qqiumax.github.io/blog/up-to-date-remote-repostitory)
 
 ## Series: GPG basics(ended)
 ### [Part 01: What is GPG?](https://qqiumax.github.io/blog/what-is-gpg/)
