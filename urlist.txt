@@ -35,3 +35,8 @@ https://qqiumax.github.io/blog/adding-to-git-repo/
 https://qqiumax.github.io/comment/
 https://qqiumax.github.io/coupon/
 https://qqiumax.github.io/terms/
+https://qqiumax.github.io/blog/license-and-gitignore/
+https://qqiumax.github.io/blog/delete-file-repository/
+https://qqiumax.github.io/blog/up-to-date-remote-repostitory/
+https://qqiumax.github.io/blog/troubleshoot2/
+

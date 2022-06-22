@@ -26,6 +26,7 @@
 ### [Finale: Encrypting and decrypting files](https://qqiumax.github.io/blog/encrypting-decrypting-files)
 ## Series: Troubleshooting
 ### [Troubleshoot1](https://qqiumax.github.io/blog/troubleshoot1/)
+### [Troubleshoot2](https://qqiumax.github.io/blog/troubleshoot2/)
 
 
 ### **[Comment here](https://qqiumax.github.io/comment/)**
