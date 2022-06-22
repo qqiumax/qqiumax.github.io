@@ -9,7 +9,7 @@
 ### [Part 07: Making your site published on Bing](https://qqiumax.github.io/blog/get-index-bing/)
 ### [Finale: Monetizing your site!](https://qqiumax.github.io/blog/monetize-your-site)
 
-## Series: Git basics detailed
+## Series: Git basics detailed (Ended)
 ### [Part01: Git concepts, install, and configuration](https://qqiumax.github.io/blog/what-is-git/)
 ### [Part02: Connect git and github](https://qqiumax.github.io/blog/git-connect-github/)
 ### [Part03: Start your first git repository](https://qqiumax.github.io/blog/initializing-a-repo/)
@@ -17,6 +17,7 @@
 ### [Part05: gitignore and license files](https://qqiumax.github.io/blog/license-and-gitignore/)
 ### [Part06: Deleting or renaming or moving files](https://qqiumax.github.io/blog/delete-file-repository)
 ### [Part07: Updating remote repository](https://qqiumax.github.io/blog/up-to-date-remote-repostitory)
+### [Finale: Use git tags](https://qqiumax.github.io/blog/git-tag-finale/)
 
 ## Series: GPG basics(ended)
 ### [Part 01: What is GPG?](https://qqiumax.github.io/blog/what-is-gpg/)
