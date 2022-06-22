@@ -14,6 +14,7 @@
 ### [Part02: Connect git and github](https://qqiumax.github.io/blog/git-connect-github/)
 ### [Part03: Start your first git repository](https://qqiumax.github.io/blog/initializing-a-repo/)
 ### [Part04: Adding files to your repository](https://qqiumax.github.io/blog/adding-to-git-repo/)
+### [Part05: gitignore and license files](https://qqiumax.github.io/blog/license-and-gitignore/)
 ### [Part06: Deleting or renaming or moving files](https://qqiumax.github.io/blog/delete-file-repository)
 ### [Part07: Updating remote repository](https://qqiumax.github.io/blog/up-to-date-remote-repostitory)
 
