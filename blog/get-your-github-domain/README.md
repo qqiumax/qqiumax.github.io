@@ -19,6 +19,8 @@
 ## 8.When you see it, click on the blue link in the green box, and you have your own domain and website now!
 
 ## Next blog I will talk about how to make a website with headers, titles, etc. with markdown
+## Video Instructions:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3xa6lqiUd2s?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### **[Comment here](https://qqiumax.github.io/comment/)**
 ## Comments
 ### From: Henry 
