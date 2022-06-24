@@ -1,4 +1,6 @@
 # Donate
+## PayPal!
+## ---------------------------------Paypal----------------------------------
 <div id="smart-button-container">
     <div style="text-align: center"><label for="description">Donate Here! </label><input type="text" name="descriptionInput" id="description" maxlength="127" value=""></div>
       <p id="descriptionError" style="visibility: hidden; color:red; text-align: center;">Please enter a description</p>
@@ -117,6 +119,8 @@
   }
   initPayPalButton();
   </script>
+## CryptoCurrenciuees!
+## ---------------------------------------Cryptos---------------------------------
 ## You can donate to the following Monero adress: 43UVoF1WP5UJeyGHCLF5xZV74aYovqTabMw8u6oGhQ4P5RzgR9LZr5cBSZGFpTwSGo7JHBQG7prnj4qAyjmKdX8SKwqxKVq
 ## You can also donate to the Bitcoin adress: 33za5vguhMQApqoyb8hQN3dx9u7jgdCh2r
 ### ------------------------I have other coins too:----------------------------
