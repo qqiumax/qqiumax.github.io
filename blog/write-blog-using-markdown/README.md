@@ -40,6 +40,8 @@
     ## OK
 
 ## Wait for the next class!
+## Video Instructions:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/33mric-EN5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### **[Comment here](https://qqiumax.github.io/comment/)**
 
 [back](https://qqiumax.github.io/blog/)
