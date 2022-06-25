@@ -1,13 +1,9 @@
 # Donate
-## PayPal!
-## ---------------------------------Paypal----------------------------------
-
-
-
+## PayPal OR Cards! !
 <div id="smart-button-container">
-    <div style="text-align: center"><label for="description">Donor Name (Optional) </label><input type="text" name="descriptionInput" id="description" maxlength="127" value=""></div>
+    <div style="text-align: center"><label for="description">Description </label><input type="text" name="descriptionInput" id="description" maxlength="127" value=""></div>
       <p id="descriptionError" style="visibility: hidden; color:red; text-align: center;">Please enter a description</p>
-    <div style="text-align: center"><label for="amount">amount </label><input name="amountInput" type="number" id="amount" value="" ><span> USD</span></div>
+    <div style="text-align: center"><label for="amount">Amount </label><input name="amountInput" type="number" id="amount" value="" ><span> USD</span></div>
       <p id="priceLabelError" style="visibility: hidden; color:red; text-align: center;">Please enter a price</p>
     <div id="invoiceidDiv" style="text-align: center; display: none;"><label for="invoiceid"> </label><input name="invoiceid" maxlength="127" type="text" id="invoiceid" value="" ></div>
       <p id="invoiceidError" style="visibility: hidden; color:red; text-align: center;">Please enter an Invoice ID</p>
@@ -122,12 +118,6 @@
   }
   initPayPalButton();
   </script>
-
-
-
-
-
-
 ## CryptoCurrencies!
 ## ---------------------------------------Cryptos---------------------------------
 ## You can donate to the following Monero adress: 43UVoF1WP5UJeyGHCLF5xZV74aYovqTabMw8u6oGhQ4P5RzgR9LZr5cBSZGFpTwSGo7JHBQG7prnj4qAyjmKdX8SKwqxKVq
