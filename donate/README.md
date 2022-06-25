@@ -1,4 +1,5 @@
 # Donate
+## Avalible for Paypal, Card, Venmo, Alipay, WeChat Pay, and Cryptocurrencies!
 ## PayPal OR Cards! !
 <div id="smart-button-container">
     <div style="text-align: center"><label for="description">Description </label><input type="text" name="descriptionInput" id="description" maxlength="127" value=""></div>
@@ -118,6 +119,10 @@
   }
   initPayPalButton();
   </script>
+## Ali Pay!
+![Ali Pay](https://qqiumax.github.io/donate/alipay.jpg)
+## WeChat Pay!
+![WeChat Pay](https://qqiumax.github.io/donate/wechat.jpg)
 ## CryptoCurrencies!
 ## ---------------------------------------Cryptos---------------------------------
 ## You can donate to the following Monero adress: 43UVoF1WP5UJeyGHCLF5xZV74aYovqTabMw8u6oGhQ4P5RzgR9LZr5cBSZGFpTwSGo7JHBQG7prnj4qAyjmKdX8SKwqxKVq
