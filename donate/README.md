@@ -2,6 +2,8 @@
 ## PayPal!
 ## ---------------------------------Paypal----------------------------------
 
+
+
 <div id="smart-button-container">
     <div style="text-align: center"><label for="description">Donor Name (Optional) </label><input type="text" name="descriptionInput" id="description" maxlength="127" value=""></div>
       <p id="descriptionError" style="visibility: hidden; color:red; text-align: center;">Please enter a description</p>
@@ -120,6 +122,10 @@
   }
   initPayPalButton();
   </script>
+
+
+
+
 
 
 ## CryptoCurrencies!
