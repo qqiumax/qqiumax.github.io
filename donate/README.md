@@ -119,10 +119,8 @@
   }
   initPayPalButton();
   </script>
-## Ali Pay!
-![Ali Pay](https://qqiumax.github.io/donate/alipay.jpg)
-## WeChat Pay!
-![WeChat Pay](https://qqiumax.github.io/donate/wechat.jpg)
+## Ali Pay Or WeChat Pay!
+![Ali Pay](https://qqiumax.github.io/donate/alipay.png)![WeChat Pay](https://qqiumax.github.io/donate/wechat.png)
 ## CryptoCurrencies!
 ## ---------------------------------------Cryptos---------------------------------
 ## You can donate to the following Monero adress: 43UVoF1WP5UJeyGHCLF5xZV74aYovqTabMw8u6oGhQ4P5RzgR9LZr5cBSZGFpTwSGo7JHBQG7prnj4qAyjmKdX8SKwqxKVq
