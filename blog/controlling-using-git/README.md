@@ -68,11 +68,14 @@
 
 ## Use Git to controll your blog freely!
 ## Next class we are going to learn creating sub-directories!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ezwFQKl33NQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## [Or watch on bilibili here](https://www.bilibili.com/video/bv1HT411V7MG)
 ### **[Comment here](https://qqiumax.github.io/comment/)**
-[back](https://qqiumax.github.io/blog/)
+
 ## **Comments**
 ### Marc
 ### I have a Problem
 ### My computer cannot install git, are there any other ways to control the web?
 #### Reply From Max:
 #### You can checkout my Git detailed series for instructions, or you can just use github to controll.
+[back](https://qqiumax.github.io/blog/)
