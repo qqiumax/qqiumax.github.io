@@ -141,6 +141,7 @@
 #### digibyte: DEro1qXgTzCsLSUJUdPCuPqaz6ubTVfyoG
 ##### ------------------------Don't Use Ripple if you have other choices:-------------------------------------
 ##### Ripple: rMj1oE6iAzttXrahgNww5pSFNAiFYtRuFd
+![monero](https://qqiumax.github.io/donate/monero.png)![bitcoin](https://qqiumax.github.io/donate/bitcoin.png)![ethereum](https://qqiumax.github.io/donate/ethereum.png)
 [back](https://qqiumax.github.io/home/)
 
 
