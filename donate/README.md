@@ -2,7 +2,7 @@
 ## Avalible for Paypal, Card, Venmo, Alipay, WeChat Pay, and Cryptocurrencies!
 ## PayPal OR Cards! !
 <div id="smart-button-container">
-    <div style="text-align: center"><label for="description">Description </label><input type="text" name="descriptionInput" id="description" maxlength="127" value=""></div>
+    <div style="text-align: center"><label for="description">Donor Name(Optional) </label><input type="text" name="descriptionInput" id="description" maxlength="127" value=""></div>
       <p id="descriptionError" style="visibility: hidden; color:red; text-align: center;">Please enter a description</p>
     <div style="text-align: center"><label for="amount">Amount </label><input name="amountInput" type="number" id="amount" value="" ><span> USD</span></div>
       <p id="priceLabelError" style="visibility: hidden; color:red; text-align: center;">Please enter a price</p>
