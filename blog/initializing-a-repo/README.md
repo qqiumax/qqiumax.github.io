@@ -18,7 +18,7 @@
 ## 5. And you are done! You can do whatever you want to do in github!
 ## **Now, the recommended type comes**
 ## **Creating a both remote AND local repository**
-## 1. Follow ALL the steps in "Create a only-local repository" section
+## 1. Follow ALL the steps in "Create a only-remote repository" section
 ## 2. Navigate to your repository, in the upper-left, green button called "code", in the dropdown, select SSH. Click the "copy" logo, and keep it.
 ![image02](https://qqiumax.github.io/blog/initializing-a-repo/git2.png]
 ## 3. In a folder you like you keep your git repositories, left click and open git bash,and type <code>git clone thing_you_just_copied_here</code>
