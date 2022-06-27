@@ -42,6 +42,7 @@
 ## Wait for the next class!
 ## Video Instructions:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/33mric-EN5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## [Or watch on bilibili here](https://www.bilibili.com/video/BV1aB4y1p7BB/)
 ### **[Comment here](https://qqiumax.github.io/comment/)**
 
 [back](https://qqiumax.github.io/blog/)

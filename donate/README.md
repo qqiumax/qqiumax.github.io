@@ -119,6 +119,7 @@
   }
   initPayPalButton();
   </script>
+## Or <https://paypal.me/qiumax/>
 ## Ali Pay Or WeChat Pay!
 ![Ali Pay](https://qqiumax.github.io/donate/alipay.png)![WeChat Pay](https://qqiumax.github.io/donate/wechat.png)
 ## CryptoCurrencies!
