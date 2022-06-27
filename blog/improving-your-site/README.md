@@ -39,8 +39,8 @@
 
 ## **And you are done!**
 ## Next class we are going to learn to publish your site on search engines like google and bing!
-
+### **[Comment here](https://qqiumax.github.io/comment/)**
 [back](https://qqiumax.github.io/blog/)
 
-### **[Comment here](https://qqiumax.github.io/comment/)**
+
 

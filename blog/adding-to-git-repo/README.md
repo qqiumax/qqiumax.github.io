@@ -37,4 +37,4 @@
 ## Next lesson we are going to be talking about .gitignore files, which can help git to "ignore" some files you don't want to add.
 ### **[Comment here](https://qqiumax.github.io/comment/)**
 
-[back](https://qqiumax.github.io/home/)
+[back](https://qqiumax.github.io/blog/)
