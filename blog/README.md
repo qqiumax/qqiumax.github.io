@@ -31,6 +31,8 @@
 
 
 ### **[Comment here](https://qqiumax.github.io/comment/)**
-
+William
+Blog
+nice blog, very detailed teaching
 [back](https://qqiumax.github.io/home/)
 
