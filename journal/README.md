@@ -69,6 +69,8 @@
 ## **6/13**
 ## **How will you properly prepare for the final practices**
 ## Hmmm, I do have to try really hard to impress my teachers in order to get a better grade. I have been almost failing everything, but it seemed that this practice have a heavy weight, and maybe I *am* going to get an A or A-, but I have to work hard. I'd better work harder on maths, since I haven't been getting a good grade. I should also stop working on my site for a few weeks, but I will pick it up later. Al and all, all is well.
+## 6/28
+### I began working on my videos now, and I am proud of that! See it on my youtube channel of Max Qiu!
 ### **[Comment here](https://qqiumax.github.io/comment/)**
 [back](https://qqiumax.github.io/home/)
 ## **Comments:**
