@@ -19,6 +19,9 @@
 ### [Part07: Updating remote repository](https://qqiumax.github.io/blog/up-to-date-remote-repostitory)
 ### [Finale: Use git tags](https://qqiumax.github.io/blog/git-tag-finale/)
 
+## Series: From Webmaster to advanced SEO leader
+### [Part01: Custom jekyll head snippets and codes](https://qqiumax.github.io/blog/advanced-custom-head-jekyll/)
+
 ## Series: GPG basics(ended)
 ### [Part 01: What is GPG?](https://qqiumax.github.io/blog/what-is-gpg/)
 ### [Part 02: installing and generating key for gpg](https://qqiumax.github.io/blog/installing-and-generate-key-for-gpg/)
