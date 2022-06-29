@@ -129,16 +129,21 @@
 ### -----------I have other coins too:---------
 ### Ethereum: 0xef7f69ce6886608ff07db8ae63b0f0ae7cbbba3c
 ### Dogecoin: DAJ6Uq2WoqXtLQq125Q8f5J8k1Mu4C3DUe
-### Bitcoin Cash:qqnnywj2dywsc7mzxeecw2u862q72pllvv9vsqgtpg
-### Tether: 0xef7f69ce6886608ff07db8ae63b0f0ae7cbbba3c
-### Binance coin: bnb1g77wu63652mkh2drlgt3958dtpy82eznt3lafu
+### Bitcoin Cash: qqnnywj2dywsc7mzxeecw2u862q72pllvv9vsqgtpg
+### USD Tether: 0xef7f69ce6886608ff07db8ae63b0f0ae7cbbba3c
+### Binance Coin(BNB): bnb1g77wu63652mkh2drlgt3958dtpy82eznt3lafu
 ### Dash: XvzbEeZ7PH6KfgmC2AAdJNrP3vm2rbD9mM
 ### Ethereum Classic: 0xDe71Fc0f12a8Cf0bf391bc4474208178D776fcfC
 #### ------Below are paper wallets I don't recommend:----------
 ### Litecoin: LZLi2P5fygMJFFMryrAz5TZinsUk1KHWxd
+#### Bitcoin Cash: 1AeHY3YV3pfaWH3H7CmCS6CsZcBvxmQLwR
+#### Bitcoin Gold: GRAsKKziE3aCCFxUj5LeroEo7VY3ZNowvw
 #### Zcash: t1cQkiH77o8gSMVjRrABjV3X7twdpyHVpfJ
+#### Cardano: TUYSZNCnwbMF9r6GBVMT2wH9MinMKdNHPX
+#### Tron: TVJTEYsJTpkvEyEd8XKygkoaYQ2bzoyaac
+#### Digibyte: DEro1qXgTzCsLSUJUdPCuPqaz6ubTVfyoG
 #### Bytecoin: 23eBwK5hbrycWHcVHMVEHrivh61GuzY17HnXVafSKEmeEVZvadLbjYK5k2MHmUBgyPS8gpZY9WPf1EXWhqbj3KGsKPV9Z1q
-#### digibyte: DEro1qXgTzCsLSUJUdPCuPqaz6ubTVfyoG
+#### Ravencoin: RQmBvPyaEeCsvRgFzfnMZMo4bYxMyetL6D
 ##### -----------Don't Use Ripple if you have other choices:-----------
 ##### Ripple: rMj1oE6iAzttXrahgNww5pSFNAiFYtRuFd
 ![monero](https://qqiumax.github.io/donate/monero.png)
