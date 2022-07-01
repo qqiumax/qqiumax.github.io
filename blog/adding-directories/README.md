@@ -19,6 +19,8 @@
 
 ## And check your webpage a few moments later, and you are done!
 ## **DO NOT FORGET TO PUT A LINK TO YOUR NEW DIRECTORY!**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vh-5J0Q3Okk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## [Or see on bilibili here](https://www.bilibili.com/video/BV1Ka411s74n/）
 ### **[Comment here](https://qqiumax.github.io/comment/)**
 [back](https://qqiumax.github.io/blog/)
 
