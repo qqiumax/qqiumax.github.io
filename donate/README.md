@@ -134,11 +134,13 @@
 ### Binance Coin(BNB): bnb1g77wu63652mkh2drlgt3958dtpy82eznt3lafu
 ### Dash: XvzbEeZ7PH6KfgmC2AAdJNrP3vm2rbD9mM
 ### Ethereum Classic: 0xDe71Fc0f12a8Cf0bf391bc4474208178D776fcfC
+### Polkadot: 5H4PRTakHPUZv1W1sjxN3eqftz8vuLiaKR34TxKw1BfVn4wF
 #### ------Below are paper wallets I don't recommend:----------
 ### Litecoin: LZLi2P5fygMJFFMryrAz5TZinsUk1KHWxd
 #### Bitcoin Cash: 1AeHY3YV3pfaWH3H7CmCS6CsZcBvxmQLwR
 #### Bitcoin Gold: GRAsKKziE3aCCFxUj5LeroEo7VY3ZNowvw
 #### Zcash: t1cQkiH77o8gSMVjRrABjV3X7twdpyHVpfJ
+#### EOS: 0xe7190E82F41E0aAF3d806a26c28A98325E1c8D91
 #### Cardano: TUYSZNCnwbMF9r6GBVMT2wH9MinMKdNHPX
 #### Tron: TVJTEYsJTpkvEyEd8XKygkoaYQ2bzoyaac
 #### Digibyte: DEro1qXgTzCsLSUJUdPCuPqaz6ubTVfyoG
