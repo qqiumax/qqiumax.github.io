@@ -14,5 +14,6 @@
 ## **[Support ticket](https://qqiumax.github.io/help/)**
 ## **[Comment](https://qqiumax.github.io/comment/)**
 ## **[Submit a coupon](https://qqiumax.github.io/coupon/)**
+## **[Chess Game Collection](https://qqiumax.github.io/)**
 [Return to frontpage](https://qqiumax.github.io/)
 
