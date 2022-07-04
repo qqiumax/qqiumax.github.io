@@ -41,3 +41,4 @@ https://qqiumax.github.io/blog/delete-file-repository/
 https://qqiumax.github.io/blog/up-to-date-remote-repostitory/
 https://qqiumax.github.io/blog/troubleshoot2/
 https://qqiumax.github.io/blog/git-tag-finale/
+https://qqiumax.github.io/chess/
