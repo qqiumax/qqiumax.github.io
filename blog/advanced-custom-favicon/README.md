@@ -10,7 +10,7 @@
 ## First, save the favicon.ico file in the root directory of your repository,
 ## Then, enter the _includes file, you may or may not need to create one.
 ## Next, enter the file of head-custom.html, you may or may not need to create it too!
-## Last, in the first line of the file, add a line of code: <code><link rel="icon" type="image/x-icon" href="https://your_github_username.github.io/favicon.ico"><code>
+## Last, in the first line of the file, add a line of code: <code><link rel="icon" type="image/x-icon" href="https://your_github_username.github.io/favicon.ico"></code>
 ## And push to the origin, and you are all done!
 ### **[Comment here](https://qqiumax.github.io/comment/)**
 [back](https://qqiumax.github.io/blog/)
