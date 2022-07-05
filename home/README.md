@@ -4,7 +4,7 @@
 ## **[Codes](https://qqiumax.github.io/codes/)**
 ## **[Projects](https://qqiumax.github.io/projects/)**
 ## **[Journal](https://qqiumax.github.io/journal/)**
-## **[Blog](https://qqiumax.github.io/blog/)**
+## **[Blog(systemic tech lessons actually)](https://qqiumax.github.io/blog/)**
 ## **[Random Works](https://qqiumax.github.io/random/)**
 ## **[Contact](https://qqiumax.github.io/contact/)**
 ## **[Paid Plans](https://qqiumax.github.io/paid-plans/)**
