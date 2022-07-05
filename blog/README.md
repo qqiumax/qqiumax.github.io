@@ -21,6 +21,7 @@
 
 ## Series: From Webmaster to advanced SEO leader
 ### [Part01: Custom jekyll head snippets and codes](https://qqiumax.github.io/blog/advanced-custom-head-jekyll/)
+## [Part02: Custom favicon of webpage](https://qqiumax.github.io/blog/advanced-custom-favicon/)
 
 ## Series: GPG basics(ended)
 ### [Part 01: What is GPG?](https://qqiumax.github.io/blog/what-is-gpg/)
