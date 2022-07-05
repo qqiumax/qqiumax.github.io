@@ -39,6 +39,8 @@
 
 ## **And you are done!**
 ## Next class we are going to learn to publish your site on search engines like google and bing!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zf1DGRhrcQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## [Or watch on bilibili here](https://www.bilibili.com/video/BV1rL4y1w7gQ/)
 ### **[Comment here](https://qqiumax.github.io/comment/)**
 [back](https://qqiumax.github.io/blog/)
 
