@@ -123,6 +123,7 @@
 ## Ali Pay Or WeChat Pay!
 ![Ali Pay](https://qqiumax.github.io/donate/alipay.png)![WeChat Pay](https://qqiumax.github.io/donate/wechat.png)
 ## CryptoCurrencies!
+## ![see gallery of all QR codes Here](https://qqiumax.github.io/gallery/)
 ## ---------------------------------------Cryptos---------------------------------
 ## You can donate to the following Monero adress: 43UVoF1WP5UJeyGHCLF5xZV74aYovqTabMw8u6oGhQ4P5RzgR9LZr5cBSZGFpTwSGo7JHBQG7prnj4qAyjmKdX8SKwqxKVq
 ## You can also donate to the Bitcoin adress: 33za5vguhMQApqoyb8hQN3dx9u7jgdCh2r
