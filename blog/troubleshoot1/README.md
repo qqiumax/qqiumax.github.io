@@ -18,7 +18,7 @@
 
 ## Q. My Github page is stuck at "ready to be published" but doesn't publish my results!
 ## A. Go to your repository, at the top navigation bar, press "Actions" and is there is a red cross, not a green checkmark like the picture below, click in it and browse until you see the error message, and fix your code corresponding to the error message. **A Quick Check: Do you have any non UTF-8 characters? If so, change it! That solves most of the problems**
-![image01](https://qqiumax.github.io/blog/troubleshoot1/trouble01.png)
+![github actions](https://qqiumax.github.io/blog/troubleshoot1/trouble01.png)
 
 ## Q. I found an issue on your site/ I want to add something to your site!
 ## A. Amazing, thanks for spotting the issue/supporting me by adding. Go to the [contacts](https://qqiumax.github.io/contact/) page to send a email to me!

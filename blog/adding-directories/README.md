@@ -15,7 +15,7 @@
 
 ## Done Image
 
-![image](https://qqiumax.github.io/blog/adding-directories/sub.png)
+![demonstrations](https://qqiumax.github.io/blog/adding-directories/sub.png)
 
 ## And check your webpage a few moments later, and you are done!
 ## **DO NOT FORGET TO PUT A LINK TO YOUR NEW DIRECTORY!**
