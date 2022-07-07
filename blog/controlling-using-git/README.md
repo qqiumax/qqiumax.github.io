@@ -15,16 +15,16 @@
 ## 1. type or paste <code>ssh-keygen -t rsa -b 4096 -C "your_github_email_here" to generate key
 ## 2. Follow the instructions in Git, or just press enter continuously
 ## 3. Navigate to c:\\users\ur-name\.ssh\id_rsa.pub, open file with notepad, and copy the whole thing in it
-![image1](https://qqiumax.github.io/blog/controlling-using-git/gitkey01.png)
+![git public key](https://qqiumax.github.io/blog/controlling-using-git/gitkey01.png)
 ## 4. Open [Github](https://github.com) in yout browser, navigate to settings => SSH and GPG keys => new SSH key, and paste what you just copied. Should end with your email.
-![image2](https://qqiumax.github.io/blog/controlling-using-git/gitkey02.png)
-![image3](https://qqiumax.github.io/blog/controlling-using-git/gitkey03.png)
-![image4](https://qqiumax.github.io/blog/controlling-using-git/gitkey04.png)
+![git key upload](https://qqiumax.github.io/blog/controlling-using-git/gitkey02.png)
+![git key upload](https://qqiumax.github.io/blog/controlling-using-git/gitkey03.png)
+![git key upload](https://qqiumax.github.io/blog/controlling-using-git/gitkey04.png)
 ## And you are done with your keys!
 
 ## **Initialize your local repository**
 ## 1. Open browser and go to github, find your repository that holds your blog, navigate to "code" tab and copy according to image.
-![image5](https://qqiumax.github.io/blog/controlling-using-git/init01.png)
+![initialize local repository](https://qqiumax.github.io/blog/controlling-using-git/init01.png)
 ## 2. Open git bash in a folder, type <code>git clone</code> and then paste the thing you just copied.
 
 ## **Upgrading blogs**

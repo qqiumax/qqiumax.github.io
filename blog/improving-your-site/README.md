@@ -1,6 +1,6 @@
 # Part05: Improving Your Blog Site&SEO
 ## In the [last class](https://qqiumax.github.io/blog/adding-directories) you should already have a bunch of folders like this: 
-![image01](https://qqiumax.github.io/blog/improving-your-site/improve1.png)
+![demo](https://qqiumax.github.io/blog/improving-your-site/improve1.png)
 ## Today will be about how to improve your own website!
 ## **1.Customize a 404 page**
 ## 1. create a .md file called 404.md in your **root** path, not anywhere else.
@@ -19,7 +19,7 @@
 ## **4.add a sitemap**
 ## 1. Use xml format, create a thing called sitemap.xml, open it with wordpad.
 ## 2. follow the format below:
-![image02](https://qqiumax.github.io/blog/improving-your-site/improve2.png)
+![sitemap](https://qqiumax.github.io/blog/improving-your-site/improve2.png)
 ## 3. Go [here](https://www.sitemaps.org/) for more information.
 ## **5.Add a robots.txt**
 ## 1. create a file called robots.txt
