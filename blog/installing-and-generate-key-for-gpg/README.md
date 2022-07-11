@@ -1,6 +1,6 @@
 # Installing and Generating GPG keys
 ## **installing gpg tool for your system**
-## 1. use <code>git clone git@github.com:qqiumax/qqiumax.github.io.git</code> to clone my repository for installing, or you can install on gnupg's official site, but might be slower
+## 1. use <code>git clone git@github.com:qqiumax/GPG-Package.git</code> to clone my repository for installing, or you can install on gnupg's official site, but might be slower
 ## 2. If you cloned my repository, delete the .git file and then unzip the zip file. You should be able to find the installing program suitable for your operating system.
 ## 3. Follow the program's directions and you are done!
 ## 1. Open Git Bash or terminal or cmd or any command line for your system.
