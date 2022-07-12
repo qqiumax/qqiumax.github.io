@@ -1,0 +1,242 @@
+* 9dd74373a8ec4b89616879214163df2efac3dbb3 bugfix
+* c5849a4a7c178025de755db72f924b9bd9096ca7 update ALT
+* da77023d52eb665cf9c6c4f4eb1cd76c5d4e043f new blog
+* 983828aea31cb54af8103b3194c83fe1356b4094 new blog
+* a8f7ff8cfddfbcffc07c2454548b1831a135fbb5 new blog
+* 1496f345c3501aada741d1776e665b26372434d3 new blog
+* c8dcfbed74067b8ba55e3916f6ddca47c003a1b2 new blog
+* 27469f058064935b63e82ba0c75a8e038e53bf35 new blog
+* 9cb9c25feb34887f406c6e81676ff83ae5012a20 new blog
+* 8ae3f9016e84dca4dc97ffeb0b2d3a43d149e398 new blog
+* ba4dbc2e296ea6a58e3283c44d270a5642eeab05 new blog
+* 1d204343450fbf12a5656629a29ce3625482a45c new blog
+* 895fb0ce3e9c27f10c3e5856383ec23333dc6dde chess
+* fc9b70f2f69dbaed23257747a1f1975f54d543e6 chess
+* 20cdd54fee4b8b0a960958e38089a8f8a60b491d chess
+* fa2fc64c19783e049d946fe6c5394c93a79695d7 new weidio
+* e029fa1069d989992fd872e6b282d1ad354557c2 donate
+* 1648457905dc9bb812f9269c653578adf0a00d20 dsjkdsjksjf
+* efe39a6b46872bc143200acdd86d535f46d4fa05 sec key
+* 66281eff8efb788a9dc6df5bc1ba7601e93abb54 new log
+* 530294e9e5d16a26a1e8f7eadc86f388533ab73a paypal
+* 8c33ee51d9743b9f18a8f4e362665e583c426aef donate
+* c9c667a78af6679dd1f923636873923d0413d1f5 donate
+* 3d1e892bf5749ff6ea344e3076b73fb38ba8a1ae donate
+* 95f0b9f26fc4dfd6c4f0adec948f134739947525 donate
+* 885b85aca78814c9e6fbd11a1ea92015f5ee574c donate
+* f8ee85ee3cc2b31b768d5499f40c4ee81c14d4a4 donate
+* 2d29b2d57b87bc1b1382248db68ac01fff0285b1 Signed-off-by: qqiumax <maxqqqq@hotmail.com>
+* 50ff47b267dba13792182d30100d97117ae019cd Signed-off-by: qqiumax <maxqqqq@hotmail.com>
+* 870355bc209f60ce5df8b5ee6b25d4dd665e235a Signed-off-by: qqiumax <maxqqqq@hotmail.com>
+* dcf6607660668977b7b13835dad21b8673e5b0cb Signed-off-by: qqiumax <maxqqqq@hotmail.com>
+* a4cadab810a0d4fdc1d5ccfe260a6a140fbee4c4 Signed-off-by: qqiumax <maxqqqq@hotmail.com>
+* d8e1a7b8d427d3e3a1a8a808a63e8721d342188a Signed-off-by: qqiumax <maxqqqq@hotmail.com>
+* e5247471e6d995e4e16e10aaa93657b4ffed3c29 Signed-off-by: qqiumax <maxqqqq@hotmail.com>
+* fc90e842f47436d65f10697954fac23e7982e01f funding
+* 9fc173e24a9e14ac35b034ac902312d21e2128bb funding
+* 1839bf5cfc0eefd71be62647dcdc7bf649d1fc93 funding
+* 952f7475a41ccdd8f0ec0eaa4a0fb7a9f7bccdd7 funding
+* de455f63f80698c296426ee3c58b16b957f1469d funding
+* 971bbab905c8a48cec2395515531828b63c9d309 funding
+* 5d18ba456388dedaba9ac1cc82f0c24e2b8753ef Create FUNDING.yml
+* 6f26e7c7f1047017ab4ac34b5994f73c275db420 Delete FUNDING.yml
+* e913aa7cabceb38b73d4b1bb1acf6af3e8c64121 donator
+* baa828745aa6c1eae171a82772e4d52ad6fddf54 pics
+* 5460ca4abc8b3eda13f6612d32cf6a27beb3bd8a Signed-off-by: qqiumax <maxqqqq@hotmail.com>
+* 055b2fdf9b7fc989943253f590b3763dd4c0cb88 Signed-off-by: qqiumax <maxqqqq@hotmail.com>
+* 783ecd865d3c31b8ceee0461cc153e74cca52c5e Signed-off-by: qqiumax <maxqqqq@hotmail.com>
+* afbeb379bbb333a7a57faedc68842b58a8d5aafd Signed-off-by: qqiumax <maxqqqq@hotmail.com>
+* 5b6c05705d9674d9a01d4dbd1330d302934a71ae Signed-off-by: qqiumax <maxqqqq@hotmail.com>
+* 5b78788f9014965ddd344cab389696a01180c8bd hotfix
+* d2d8bb6284fff12d46bf59a8435fa0bf0d9c969a donate
+* 93f3fbee50e9e22c0ac23b8b13a930513c8416ba paypal
+* e01f62c9ad75dc624f70f292513854784f85ccd0 log
+* 571b7fcf170bb9a489165f2463ea1e23fb6091aa lesson 2 video
+* 7db95b8bb017eb2f47e5eeea96835c2fde4ff3af sitemap'
+* e07a9d150c05ad83285e5f68365b5c03a2afd7fd sitemapindex
+* 2c3c33dff80b556450ec6514a402e05fcd9d4eba urlist
+*   0c149e30a0b1db5ea11a39e4b9c583a618921e30 Merge remote-tracking branch 'origin/main'
+|\  
+| * 5791194869a97d9ce09978f7cd12fa1d12486184 Set theme jekyll-theme-cayman
+| *   5298c8dc612f8176f76906fc656acb4a2df7bc69 Merge pull request #2 from qqiumax/qqiumax-patch-1
+| |\  
+| | * 1ccda90d94a3758cc2a0b1261154fc9899e73d69 Update README.md
+| |/  
+* / ab5a4a5751c784bc85749ee202231d00462ef61c lesson 1 video
+|/  
+* f5b4608683b34237d9588bb7ecd025b4b27791b9 good
+* 20974a01610f1fa397b846f67303885723dc4c64 new blog
+* 2e5cbdbc98a0808c9b5acf4764a29bd11f68eabb good comment
+* 963d96115965d0920fc298adf04b7d815c6bfe84 blog20
+* ba5960ff7ee1d32f729bfffbbbe4faac1464f732 blog 5-7
+* c20119ccbacbd8cd1be67af3775e63609680101a blog5
+* c9a4eeec074dbf401738a8533ae309e37aea22a8 blog 6
+* ad2e24bf2a6b84bd0f324fe86c0b256baf263040 blog 6
+* 9ff6f4f931bd0421c6140f0cce7ad24b270d385b blog 6 of git
+* eff550d297bca3953e7efca5739f1fcf4c133d52 urlist
+* 170a3758998e40244b2188fd156270de23cb9fd4 rights
+* e2fb8f516bdc790b2a036c2099e8df08153f7782 bugficx
+* 12d41b12af25830d09df3eac1b4896f1c9404761 layout
+* c9f9501359f968ea61d121975afa21ba1b6ba1ee delete copyright
+* b0aecbdccc200393b5a13ffda61aec3f79cfde5a baidu
+* b7eb5dc162978895ed4fec65ecad092c11e77d3b baidu
+* a7f1a462be27becef5f89a11ec6e12040a302b9d yandex
+* 046c7712c012e181f7169a5f6b3d67426f3b603f yandex
+* 52511129fc5e9b24967496ab2019cd3a1e8788d9 msclarity
+* 85ed9e65f6ff6550bb504f69ab9a80b278edeba1 layouts
+* ff768fa823a24c49a2edf8c50bf417580989eaa3 layouts
+* 92a8df776a88a49abc821bbdb28cb1ca2caf9486 layouts
+* e9817066c892629fc685dc5b992a9e1d84d9ed8c delete optimize
+* d6d20af1dd98ee224c6a30f10ab6d3420a6b34bf bugfix
+* 1eb73cb625289cdc2f41eee9145a8766331a0837 google opt
+* 6f3524410de9af4cff1f47079d45f28b978f35e8 api fix'
+* ba4e6829f54194e13ee7f1b3bf37a6a3ff263b45 indexnow api
+* 1a9ba43ccba24e233ad3a1f00682407f713d3577 msclarity
+* 5b1310e051a11ffa7bb5ad8b6c00c45a2225c9ae msclarity
+* 45782b61846188bd4e81fb67b0019f4794cfb874 msclarity
+* 0614478edc89541825605949a6939584a44a18a0 terms
+* 3735a41c823195c58799448ed69e81b3f2a6c281 terms
+* ea24dffd7da0d9b707b6a397e68320e3dde082a0 terms
+* fc36981c8baff7a4b88f7f3e08704229ae40975b favicon
+* 2c2f57a34db0d749a41814bb240eb3fb1c5e0dfe gtag.js
+* eb1e4832441416927fd3d7476a52253d12302ab4 favicon
+* c3560942222f4672920e15a6d571254d44907735 origin main
+* ad9d9f11b8eea97358703e65f78438241446a378 favicon
+* 3f4fd2e4c927025c5d9fc3a6ae44f95cffd16eb5 favicon
+* 3cd6a5afa5334847d1f74e62a4b8580dc3c196f1 gtm
+* d0370c7d640dd4e33ed7c8d8d4b7a8d0f3e227a7 gtm
+* 7416395407e5ce6714e779ea88a8bc98b60f368f gtm
+* 9d688939a2c3a68324f73ce96bdb5aca19b36301 gtm
+* d25f81284b6bcdcca06a16e3a9dd3097a9950197 coment
+* 5a1ec8817ea4044e253b8e1a56389f9e99c47f5a coment
+* e7ceaae8b777fc02336ba97ef0788070a7001c7e coment
+* c9402a6ba832fe1cc7fe1b27d1812a052c1e4f75 coment
+* 41bac665189c060b955b22de56f88b0ba4ee13da coment
+* 06d558cddae98c1f5792d920497cb2ddb6411ea4 coment
+* c73e903bceb22580f93fcce25b6d1e18e7690cc2 coment
+* 2c0f5c661dd6f0240b57119a3c1761ef6f162ab1 move support
+* a808859e760f30fa9168fe4bb713d9545a04a744 move support
+* 285ac52dc8eee0fc655829bfce8913cefcd3b809 move support
+* e74277595a237e82c3cddbeb8e31807fd965aa78 offline
+* 175af2ac919939e24f1adbd03548bf4762129513 coupon
+* bbdbe730dea76cb7ff0df569fb09aa6e8f5885f3 upload log and urlist
+* 0d9ea076e9732eaec6ae3f7fbf15371bf507e486 upload log and urlist
+* 28b2bf10e9e851cec599c9bc0ed7598ab5b61d78 upload log and urlist
+* e4a9b2494f283e926c4cf634b898105fdc712c77 comments
+* 52f9fa442c1611a652e8bf21c8dfb777d7962047 comment section
+* 3083bd1f6ab1fdf16906bf962f678874507e8581 new code
+* e99eefc820fd5b69e8bc5fc94bc79bb6191c8442 modfy license
+* e0c46140f6829be4f37125181ba8a3a10bb1c6f6 copyright
+* 3b7c1754b1516de07c76ac053b87469df7d499bb copyright
+* 79d2f76539e7f270acfd0abf50c36e9acb1b9fe4 supportchange
+* deda2de143b3f4ed9603154b1153777fcea243bc book publish
+* d4995df666828e5ce64fbdc23207807b43e0c71a has an log
+* 55964f3b94856c15e135341cd809dd36e068a8f0 new blog
+* 445fdcf847a9e4ac50c960b3d3067b13dbc61727 .githignore urlist
+* bee4d786e7f868278c7d7841c5cec91a559cca9d new blog
+* 3c5e412bed7a95cfb797f3f286ff2dc522331e9c mocrosoft form
+* dd245edd2c1a3ac38cf905e556aab38b8da5a861 blog
+* a9efb766398d1bb5e4ef23bee697ec0584542789 new blog
+* cbf6d2438e12b7adabe02ca3fdb53ab5f77a16aa blog
+* 589d1d6ef14946662c80c97fc03c10edca1f2919 Update README.md
+* 39b449160bed2156f7d25ca7fa5c952a756f8b11 Update README.md
+* 819eaf5844165eb117f88be506e8a0db96729e17 subscribe support
+* b610e49377c1b4d33643e7948e00b9c67ea78021 subscribe support
+* 855352297a9f99b3c105f63f8266c9ffeae6878e subscribe!
+* eb9c66955eb436cdd346a047396b665cc2967bc0 subscribe!
+* 5ed7582dc1fc0c4d30874f47f3c16401145c9a6f subscribe!
+* e18eb9c6f286d90a85a7003dd62b3a78805647d2 subscribe!
+* 12c8b4a10731cb97d2c6210be2c654b2ba4e1790 paid planms
+* 3d6ffab01f3ec876be70a827970a9384651ac70e new blog
+* 277fac56c71b91f8059acb77aedb322695b8cd2e blog bugfix
+* 550b7398d7fc2ec682ebf4ca967c54d4667f0e8e new blog&series
+* 26e1b454f4da9a25b674043a1e6585976b16b08b sitemap,sitemap
+* 59839f206692840b7bba32ddde11c0122fdbf546 new blog
+* 86da77f9a5ba289775130aae6d46d8a149c4930d rewritten
+* 29d18d5ffb40f6c593f9fb5ab4cf215474903adb Create FUNDING.yml
+* 5dc3e27a0bdd4818dc740ba4c4df3157aae96339 bugfiux
+* 67828f3b9b8730d5c8c91700e6085f831fd12830 changes
+* 4964b48a72ba7cde8eaf4a118b042f317b38d702 blog
+* df5c4d052ad4658273d3722ba61fa046713e41a0 blog
+* e125a1dc31bd4db9330e130e3184ac167c00764a blog
+* cf49829b26501e9db0d28ff3aed4123b7b09c997 sitemap,sitemap
+* bfa7b2f3f97720b856e442e3814104f1f12744d0 bugfix+new content+links
+* 98a004a2c348f81636279a44ca690d2ad4675cec new blog!
+* 1a408e97d4232568e6efbe7da8e9237f7dde1ca6 sitemap
+* 83465aa43ae8c0a155e786c7e5c544c8551d22bf add blog
+* 539b880b409a605d522891ac231e70cffbccbfc7 add ppt
+* 6d8d007783c2f4ea198058275f4f2f4116900110 bugfix+content
+* 8227fcfeedfd804ce7730d220e517f635cb6f08f bugfix+content
+* cfbb3b46f446ab604794d1978434981ad03a8854 bugfix+content
+* 73de73e0c7f875130a4acd15dbfea5034bd79ad7 bugfix+content
+* 2895ca61e1a026029d1ea885c5636e74681265a5 bugfix+content
+* 29dc3f48210b8b51bf603e0ddfba2daf1adaa3d7 bugfix+content
+* e2e1f314709d9cdc4c1db59bb564381629a9a04e bugfix+content
+* 08d8fc938e7280a59de48ac9015a0fbb3d10c6f7 bugfix+content
+* 5876d6ddd04ace144c71b63ea188b3c4357a7ab4 bugfix+content
+* 29555412dd75acf9b26ed45969ee25791f780218 bugfix
+* 1f26e44503cfe813eafef5df99d4f6e3e8af03c5 sig
+* 5a9157b0b6a7ad3a1faf21ce385364df7908ef30 update profile
+* 591e9d03616787d9d47cd62f1e0839f0caaef251 keyid
+* b4ab031e6be79739b59c04f4895fd157f2f107a5 sig
+* 89bccab0f2ef0151352af462da8dd5a24deee2b9 signature
+* ae852bae62711bc5b741d5244749b348840a70f8 asdf
+* 4f5825709196bcdfae8766c93cde66e7e412ef0f contact bugfix
+* 491873441ba34d6977119913a809f9e7d860fd63 bugfix
+* 0359a6472ec7994a9295db4f2d7d6b8bb98233f8 newblog
+* ea1e2b5fa69126f5c91da25553607ebfe7b3e8a9 bugfix
+* 20c16a5b6754c9e18f84e21af2e6275722980c36 journal new
+* 5930317b71dbc3ef09d36bf5be6174a70f4b6fb9 bk
+* a4f8e21a644fdf5dca4be7ec7b880e5a3f41352a tst
+* d4e5ff6b632433fd63cdfaded6432d1a62937a24 clear pivacy
+* 9ca7dd8278026e827b854b8973d2cdf7b1abd2c8 stn
+* 565e2dd0a983a18b2a61f361bdf69cb9cd969a71 bugfix
+* 7f53a8c86a50eb551ea2945d91bfcca1ead47dac update stm
+* 5fa2822f3c553657b0d1e8b0cf750d4a383ab086 update home
+* 1f9c9c876d00096005686a6ece047efa13db271c new blog
+* a937dba6ffc51f7dcc3b2cbc8d56b84a98ca75ca troubleshoot
+* c9e85f4e6cce1fa471194bd11ce5e5ebe8d3ca77 delete title
+* 3e17515bf82d2765759b293d2aafcc1c0ba5d4ec rm
+* 3c96be0b78ff7302fa8eafcb3595ce2a79d78e59 new
+* 61786c52e413aea42464412aa31f66b437a088b2 hed
+* 96a846be23d8b8a53042fc8a5dbe12bf38f74609 gtm gtag
+* e39ff7856ad2664dd14cab1e92632657ab2e13b8 add GPG section
+* a32023b2948afb209ee15bd35c728a26e5d72a1b tst
+* d57c97c060fd6f69aadee69ddc2dabc5bf2da211 git
+* df1a79f9ab11e1b9a683d4315482f1c7cb391e95 bugfix
+* 31f353ebe0cb699c7610b880a567f634e76b73e7 add random
+* c77aba72e65cfd74bb9762e34d505f222a1d626b My site is on google now
+* bdc4c89afafc4d1f37a14698946ee32ffb8d30e7 code
+* 37cef594e9eb500af52e984c031d8dc81403b718 code
+* 5bbe7b1f3a16fdb3af6f6b5b83244180dcb82d31 404.md update
+* 23a6f4651a24a11a90f79544f8930467b56fad83 new blog!
+* d2813cf07e339609973c141f58048b3c4b0194d5 back to norm
+* 605d7e71d7ba0696d4e5b0789a124ecc10e38ffc btf-jkl
+* 05d183369da718a42f2a59bfb8f891998398e295 config SEO
+* 6bcf8caf34359721cfc0df6a697c4acf52c7d5f4 web analytics
+* 66574bd5c7a7a9fe1035bc4bc0ded7bbf70cbf8f blogfix
+* b1c1c2839ba21dc71c53089b8fdb24606dbeccc8 new blog
+* 834730852a32cbdaa87b5f61898ec50433b5f751 sitemap
+* e219d8941ffac00f467d8fa7e9d1d6ee078622fa moved stm
+* 14c4e45026965ce4c4e978d375b39fa6ea7279e7 blog bugfix
+* 5e41173e794bf89c19a2f92956be70a26d5c0a6d asd
+* 169300f4a8809685f0814646fbd25d221fda18e3 bugfix
+* 474a65e59e723e7211167cff8ce8e2a8f57acacc update blog 3
+* 5aa7ec05cda9e766711b590ef7b1eee6c9a0ea6b blog3
+* 3153b282936620c71e49876b14a591f29443529f asdf
+* c791e13a966b90fa9848b85105a5cb112a684055 sitemap
+* 1ddc5d8f5c54e033b8e8066c3a03d3045f2d45f2 asdf
+* 3c73c1658e9d642767e80b8d400408a0a9b67658 asdf
+* 254c0133587bcd0a8b2bac15933af94b4cb8b48d Update README.md
+* 19b6a918027817fac3965a1b16a854a64d9d5b3d Set theme jekyll-theme-cayman
+* 1aec01abb8f56845775fd1a22e8f21370b9482f4 reit
+* b649de2ef318777f4dde8cc243391289e8a299cf clear ache
+* 8ffd9e76143f46e50d13d665f1389a32c1d7d073 asdf
+* 1854ec97ce2328b59e03f89be6161d155d961f01 asdf
+* 0efea3e22aa35da8714becd88d7c17beea9b1a83 Set theme jekyll-theme-cayman
+* 76e399bee53788586be06ff40421830803f3c201 asdf
+* 1dd9035b24aa29664d93382754c9fe006a555ae1 adf
+* 162e7cb7d103318138339cea91001fb942b427c6 Set theme jekyll-theme-cayman
+* 8c47fa9635646cf5d4cf55465f1fad69d3a251be reinit
+* 46a2a06b5492cc384af12fa4b64c75d731136724 reinit
+* 94eebf6c0afa41e8ea9fad0ff6d1a77fca0ca217 Initial commit
