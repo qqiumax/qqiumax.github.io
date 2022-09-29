@@ -38,9 +38,6 @@
 ## William
 ## Blog
 ## nice blog, very detailed teaching
-## My Shell
-## I like Max
-## And Kelly too!
-## REPLY: Who is Kelly???
+
 [back](https://qqiumax.github.io/home/)
 
