@@ -10,7 +10,7 @@ key = "387741bd4879437eb1fcc84d66b0b28e"
 location = 'https://qqiumax.github.io/387741bd4879437eb1fcc84d66b0b28e.txt'
 for i in url:
     i == str(i)
-    endpoint = f"https://yandex.com/indexnow?url={i}&key={key}&keyLocation={location}"
+    endpoint = f"https://webmasters.yandex.com/indexnow?url={i}&key={key}&keyLocation={location}"
     response = requests.get(endpoint)
     print(i)
     print(endpoint)
