@@ -29,7 +29,9 @@
 ### [Part 02: installing and generating key for gpg](https://qqiumax.github.io/blog/installing-and-generate-key-for-gpg/)
 ### [Part 03: using gpg to sign git tags and commits](https://qqiumax.github.io/blog/signing-commits-and-tags/)
 ### [Part 04: signing and verifying files](https://qqiumax.github.io/blog/signing-files-and-verify/)
-### [Finale: Encrypting and decrypting files](https://qqiumax.github.io/blog/encrypting-decrypting-files)
+### [Part 05: Encrypting and decrypting files](https://qqiumax.github.io/blog/encrypting-decrypting-files/)
+### [Finale: Telling others about your public key](https://qqiumax.github.io/blog/tell-public-key/)
+
 ## Series: Troubleshooting
 ### [Troubleshoot1](https://qqiumax.github.io/blog/troubleshoot1/)
 ### [Troubleshoot2](https://qqiumax.github.io/blog/troubleshoot2/)
@@ -37,7 +39,6 @@
 
 ### **[Comment here](https://qqiumax.github.io/comment/)**
 ## William
-## Blog
-## nice blog, very detailed teaching
+### nice blog, very detailed teaching
 [back](https://qqiumax.github.io/home/)
 
